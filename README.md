@@ -18,3 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faique07&show_icons=true&locale=en&layout=compact" alt="faique07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faique07&" alt="faique07" /></p>
+![](https://leetcard.jacoblin.cool/faiquekhan0707?animation=false)
